@@ -7,7 +7,7 @@ pug_html = pug_html + "\u003C!DOCTYPE html\u003E";
 pug_html = pug_html + "\u003Chtml\u003E";
 ;pug_debug_line = 4;pug_debug_filename = "\u002FUsers\u002Ftkirby\u002Fworkspace\u002Fzbryikt\u002Fletas\u002Fweb\u002Fsrc\u002Fpug\u002Fbase.pug";
 ;pug_debug_line = 3;pug_debug_filename = "src\u002Fpug\u002Fflagship\u002Fall\u002Findex.pug";
-url = "https://dash.taicca.tw/dash/brd/flagship-2/grp/4QfoCM02LC05ZK0B_z02plB-x/judge/custom/2T+u6H0sy05lt0AFm04qpWyr/all";
+url = "https://dash.taicca.tw/dash/brd/flagship-2/grp/sbXpp03G305Od0CTR02NYufP/judge/custom/3H8taT0ABJ05eX0ALq029Atsb/user";
 ;pug_debug_line = 5;pug_debug_filename = "\u002FUsers\u002Ftkirby\u002Fworkspace\u002Fzbryikt\u002Fletas\u002Fweb\u002Fsrc\u002Fpug\u002Fbase.pug";
 pug_html = pug_html + "\u003Chead\u003E";
 ;pug_debug_line = 6;pug_debug_filename = "\u002FUsers\u002Ftkirby\u002Fworkspace\u002Fzbryikt\u002Fletas\u002Fweb\u002Fsrc\u002Fpug\u002Fbase.pug";
